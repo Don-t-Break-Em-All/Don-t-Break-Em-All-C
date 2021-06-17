@@ -4,7 +4,7 @@ int main(void) {
     const int screenWidth = 320;
     const int screenHeight = 200;
 
-    InitWindow(screenWidth, screenHeight, "raylib [core] example - keyboard input");
+    InitWindow(screenWidth, screenHeight, "Don't Break 'Em All");
 
     Vector2 playerPosition = { (float)screenWidth/2, (float)screenHeight/2 };
 
